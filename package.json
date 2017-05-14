@@ -1,13 +1,10 @@
 {
-  "name": "creative",
-  "title": "Creative",
-  "version": "3.3.7+1",
-  "homepage": "http://startbootstrap.com/template-overviews/creative",
-  "author": "Start Bootstrap",
-  "license": {
-    "type": "MIT",
-    "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
-  },
+  "name": "sophie-frederic-wedding.fr",
+  "title": "Sophie & Frederic wedding site",
+  "version": "0",
+  "homepage": "http://sophie-frederic-wedding.fr",
+  "author": "Pierre Louchet",
+  "license": "NOLICENSE",
   "devDependencies": {
     "bootstrap": "^3.3.7",
     "browser-sync": "^2.13.0",
@@ -24,6 +21,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
+    "url": "https://github.com/staticwebsites/sophie-frederic-wedding.fr.git"
   }
 }
